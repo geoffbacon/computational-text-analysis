@@ -2,18 +2,24 @@
 
 ## Overview
 
-A three to four sentence description of the workshop.
+This workshop will equip newcowers with the foundation for applying computational text analysis methods in their work. The focus is on high-level descriptions of what existing methods do and user-friendly implementations. We will also spend some time on interpreting results correctly.
 
 ## What you'll learn
-* Thing 1
-* Thing 2
-* etc.
+* what computational text analysis can do, and what it can't do
+* preprocessing text data
+* supervised methods
+* unsupervised methods
+* where to go next to learn and seek help with your computational text analysis projects
 
 ## Prerequisites
 
-What you need to know before taking this workshop. Remember, 
+For day 1, no experience in computational text analysis or programming is expected or required. The goal is to provide an orientation for those wishing to go further with text analysis and interpret results of these methods.
+
+On days 2, 3 and 4, we will get our hands dirty implementing some of the methods. This will be in Python. If you would like to follow along with the implementation details, you will need some familiarity with Python. Completion of D-Lab's Python FUN!damentals workshop series is sufficient. If you haven't programmed in Python or at all, you are of course welcome to attend and learn the big ideas behind the methods.
 
 ## Getting started & software prerequisites
+
+**We will cover the this in the first session. Please just come with a laptop and we'll talk about the rest on day 1.**
 
 There are three ways to get started with these materials, with each of them requiring different software installed on your computer.
 
@@ -37,10 +43,10 @@ pip3 install -r requirements.txt
 
 It's OK Not To Know! That's our motto at [D-Lab](http://dlab.berkeley.edu/). D-Lab is open to researchers and professionals from all disciplines and levels of experience.
 
-## References
+## Resources
 
-* [Reference 1](www.google.com)
-* etc.
+* [CTAWG (Computaitonal Texta Analsysis Working Group) website](http://dlabctawg.github.io)
+* [Lectures from Stanford's NLP class](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 
 ## Contributing
 
@@ -51,7 +57,7 @@ If you spot a problem with these materials, please make an issue describing the 
 * [Ben Gebre-Medhin](http://gebre-medhin.com)
 * [Laura Nelson](http://www.lauraknelson.com)
 * [Teddy Roland](https://teddyroland.com/about/)
-* [Geoff Bacon]()
+* [Geoff Bacon](http://linguistics.berkeley.edu/~bacon/)
 
 These materials have evolved over a number of years. They were first developed for the [D-Lab](http://dlab.berkeley.edu) by Laura Nelson & Teddy Roland, with contributions and revisions made by Ben Gebre-Medhin, and most recently updated by Geoff Bacon.
 
