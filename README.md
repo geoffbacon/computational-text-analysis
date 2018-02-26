@@ -61,4 +61,4 @@ If you spot a problem with these materials, please make an issue describing the 
 
 These materials have evolved over a number of years. They were first developed for the [D-Lab](http://dlab.berkeley.edu) by Laura Nelson & Teddy Roland, with contributions and revisions made by Ben Gebre-Medhin, and most recently updated by Geoff Bacon.
 
-![data/logo.png]
+![assets/logo.png]
