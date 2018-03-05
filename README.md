@@ -1,5 +1,7 @@
 # Computational text analysis
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoffbacon/computational-text-analysis/master)
+
 ## Overview
 
 This workshop will equip newcowers with the foundation for applying computational text analysis methods in their work. The focus is on high-level descriptions of what existing methods do and user-friendly implementations. We will also spend some time on interpreting results correctly.
