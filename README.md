@@ -47,7 +47,7 @@ It's OK Not To Know! That's our motto at [D-Lab](http://dlab.berkeley.edu/). D-L
 
 ## Resources
 
-* [CTAWG (Computaitonal Texta Analsysis Working Group) website](http://dlabctawg.github.io)
+* [CTAWG (Computational Text Analsysis Working Group) website](http://dlabctawg.github.io)
 * [Lectures from Stanford's NLP class](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 
 ## Contributing
